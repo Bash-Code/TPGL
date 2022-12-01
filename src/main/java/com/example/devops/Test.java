@@ -1,2 +1,4 @@
-package com.example.devops;public class Test {
+package com.example.devops;
+
+public class Test {
 }
